@@ -6,13 +6,13 @@
 
 Before you start work on this deliverable make sure you have read all of the proceeding instruction topics and have completed all of the dependant exercises (topics marked with a ☑). This includes:
 
-- ☑ [Course Introduction](essentials/introduction/introduction.md)
-- ☑ [AWS account](essentials/awsAccount/awsAccount.md)
-- [Startup application](essentials/startup/startup.md)
-- ☑ [Demo day submission](webFrameworks/demoDay/demoDay.md)
-- [Let's play Simon](essentials/simon/simon.md)
-- [Git](essentials/git/git.md)
-- ☑ [GitHub](essentials/gitHub/gitHub.md)
+- ☑ [Course Introduction](https://learn.cs260.click/page/essentials/introduction/introduction_md)
+- ☑ [AWS account](https://learn.cs260.click/page/essentials/awsAccount/awsAccount_md)
+- [Startup application](https://learn.cs260.click/page/essentials/startup/startup_md)
+- ☑ [Demo day submission](https://learn.cs260.click/page/webFrameworks/demoDay/demoDay_md)
+- [Let's play Simon](https://learn.cs260.click/page/essentials/simon/simon_md)
+- [Git](https://learn.cs260.click/page/essentials/git/git_md)
+- ☑ [GitHub](https://learn.cs260.click/page/essentials/gitHub/gitHub_md)
 
 Failing to do this will likely slow you down as you will not have the required knowledge to complete the deliverable.
 
