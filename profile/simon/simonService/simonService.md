@@ -82,7 +82,7 @@ const app = express();
 
 const port = process.argv.length > 2 ? process.argv[2] : 3000;
 
-app.get('*', (_req, res) => {
+app.get('/', (_req, res) => {
   res.send({ msg: 'Simon service' });
 });
 
@@ -138,7 +138,7 @@ const uuid = require('uuid');
    app.use(`/api`, apiRouter);
    ```
 
-1. **Delete the placeholder endpoint**. Delete the placeholder endpoint `app.get('*' ...` that we created to demonstrate that the service was working.
+1. **Delete the placeholder endpoint**. Delete the placeholder endpoint `app.get('/' ...` that we created to demonstrate that the service was working.
 
 1. **Add the service endpoints**. Add all of the code for the different Simon endpoints. This includes the authentication and score endpoints. This code uses some helper functions for dealing with cookies and creating and finding users. If you don't understand what this code is doing then go back and review the [login](../../webServices/login/login.md) and [Express](../../webServices/express/express.md) topics.
 
